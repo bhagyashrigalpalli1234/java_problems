@@ -1,4 +1,4 @@
-//second largest element
+//second largest element in array
 import java.util.Scanner;
 public class array {
     static int findmax(int arr[])
