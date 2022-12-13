@@ -1,6 +1,6 @@
 //second largest element in array
 import java.util.Scanner;
-public class array {
+public class secondlargest {
     static int findmax(int arr[])
     {
         int max=Integer.MIN_VALUE;
