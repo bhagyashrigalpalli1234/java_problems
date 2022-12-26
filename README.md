@@ -1,1 +1,3 @@
-# java_problems
+#Java Notes
+---------------Inheritence-----------
+
